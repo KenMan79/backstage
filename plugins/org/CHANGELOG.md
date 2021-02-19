@@ -1,5 +1,16 @@
 # @backstage/plugin-org
 
+## 0.3.8
+
+### Patch Changes
+
+- e3bc5aad7: Use the `pageTheme` to colour the OwnershipCard boxes with their respective theme colours.
+- Updated dependencies [9615e68fb]
+- Updated dependencies [49f9b7346]
+- Updated dependencies [2c1f2a7c2]
+  - @backstage/core@0.6.3
+  - @backstage/plugin-catalog-react@0.0.5
+
 ## 0.3.7
 
 ### Patch Changes

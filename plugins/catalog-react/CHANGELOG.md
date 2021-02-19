@@ -1,5 +1,16 @@
 # @backstage/plugin-catalog-react
 
+## 0.0.5
+
+### Patch Changes
+
+- 9615e68fb: Forward link styling of `EntityRefLink` and `EnriryRefLinks` into the underling
+  `Link`.
+- Updated dependencies [9615e68fb]
+- Updated dependencies [49f9b7346]
+- Updated dependencies [2c1f2a7c2]
+  - @backstage/core@0.6.3
+
 ## 0.0.4
 
 ### Patch Changes

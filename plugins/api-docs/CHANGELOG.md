@@ -1,5 +1,16 @@
 # @backstage/plugin-api-docs
 
+## 0.4.7
+
+### Patch Changes
+
+- 5469a9761: Changes made in CatalogTable and ApiExplorerTable for using the OverflowTooltip component for truncating large description and showing tooltip on hover-over.
+- Updated dependencies [9615e68fb]
+- Updated dependencies [49f9b7346]
+- Updated dependencies [2c1f2a7c2]
+  - @backstage/core@0.6.3
+  - @backstage/plugin-catalog-react@0.0.5
+
 ## 0.4.6
 
 ### Patch Changes

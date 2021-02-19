@@ -1,5 +1,11 @@
 # @backstage/techdocs-common
 
+## 0.4.2
+
+### Patch Changes
+
+- 1e4ddd71d: Fix AWS, GCS and Azure publisher to work on Windows.
+
 ## 0.4.1
 
 ### Patch Changes

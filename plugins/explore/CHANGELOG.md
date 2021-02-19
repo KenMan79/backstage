@@ -1,5 +1,16 @@
 # @backstage/plugin-explore
 
+## 0.2.7
+
+### Patch Changes
+
+- 347137ccf: Display the owner of a domain on the domain card.
+- Updated dependencies [9615e68fb]
+- Updated dependencies [49f9b7346]
+- Updated dependencies [2c1f2a7c2]
+  - @backstage/core@0.6.3
+  - @backstage/plugin-catalog-react@0.0.5
+
 ## 0.2.6
 
 ### Patch Changes
